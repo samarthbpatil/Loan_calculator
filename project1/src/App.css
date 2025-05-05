@@ -1,0 +1,26 @@
+.container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .results {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
